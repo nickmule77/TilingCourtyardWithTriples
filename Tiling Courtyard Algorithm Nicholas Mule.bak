@@ -1,0 +1,5 @@
+#lang Racket
+
+(define (hello x)
+  (list x))
+
